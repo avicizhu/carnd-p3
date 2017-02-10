@@ -1,8 +1,0 @@
-sudo pip install keras
-conda install h5py
-pip install pyyaml
-pip install python-socketio
-pip install eventlet
-pip install pillow
-pip install virtualenv
-pip install Flask
